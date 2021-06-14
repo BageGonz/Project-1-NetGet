@@ -45,5 +45,5 @@ css api: materialize
 
 ![screenshot](https://github.com/Mannyalfa/netget-isp-finder/blob/main/assets/images/netgetad.jpg)
 
-deployed page url: https://mannyalfa.github.io/netget-isp-finder/
+deployed page url: https://bagegonz.github.io/Project-1-NetGet/
 
